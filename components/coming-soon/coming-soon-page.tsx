@@ -65,7 +65,7 @@ export function ComingSoonPage() {
             <MapPin aria-hidden="true" className="h-4 w-4 text-acho-green" />
             Campo Grande • MS
           </span>
-          <span>Feito com ❤️ no Brasil</span>
+          <span>© 2026 Achô! Todos os direitos reservados.</span>
         </motion.footer>
       </motion.section>
     </main>
