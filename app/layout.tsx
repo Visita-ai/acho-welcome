@@ -3,7 +3,7 @@ import "./globals.css";
 
 const siteUrl = "https://acho.com.br";
 const description =
-  "O Achô! está sendo desenvolvido para ajudar você a encontrar lugares, serviços, eventos e oportunidades perto de onde está.";
+  "O Achô! está sendo desenvolvido para ajudar você a encontrar lugares, serviços, eventos e oportunidade por perto de você.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

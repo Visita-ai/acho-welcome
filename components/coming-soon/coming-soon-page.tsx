@@ -1,7 +1,7 @@
 "use client";
 
-import { MapPin } from "lucide-react";
 import { motion } from "framer-motion";
+import { MapPin } from "lucide-react";
 import { ActionButtons } from "./action-buttons";
 import { AnimatedProgress } from "./animated-progress";
 import { BackgroundParticles } from "./background-particles";
@@ -39,7 +39,7 @@ export function ComingSoonPage() {
           className="mt-5 max-w-2xl text-base leading-8 text-acho-muted sm:text-lg"
         >
           O Achô! está sendo desenvolvido para ajudar você a encontrar lugares,
-          serviços, eventos e oportunidades perto de onde está.
+          serviços, eventos e oportunidade por perto de você.
         </motion.p>
 
         <motion.div variants={fadeUp} className="mt-10 w-full">
